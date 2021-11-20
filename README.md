@@ -16,6 +16,8 @@ Electronics engineer, working in telecommunications.  I am dedicated to learn ab
 | ReactJS |
 | NodeJS |
 | Express |
+| Python |
+| FastAPI |
 | GCP |
 
 <!--
