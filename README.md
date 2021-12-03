@@ -20,6 +20,8 @@ Electronics engineer, working in telecommunications.  I am dedicated to learn ab
 | FastAPI |
 | GCP |
 
+- 🌱 I’m currently learning docker 🐳
+
 <!--
 **kannder83/kannder83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
