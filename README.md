@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name is Alejandro
-## 🌎 Studying to become a web developer 🌏
+## 🌎 Studying to become a software developer 🌏
 
 Electronics engineer, working in telecommunications.  I am dedicated to learn about web development. I have knowledge of React, CSS, JS, Express and NodeJS.
 
@@ -19,8 +19,8 @@ Electronics engineer, working in telecommunications.  I am dedicated to learn ab
 | Python |
 | FastAPI |
 | GCP |
+| Docker |
 
-- 🌱 I’m currently learning docker 🐳
 
 <!--
 **kannder83/kannder83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
