@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name is Alejandro
-## 🌎 Studying to become a software developer 🌏
+## 🌎 Studying to become a software engineer 🌏
 
 Electronics engineer, working in telecommunications.  I am dedicated to learn about web development. I have knowledge of React, CSS, JS, Express and NodeJS.
 
