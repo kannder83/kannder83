@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-# My name is Alejandro
-## 🌎 Studying to become a software engineer 🌏
+# My name is Alejandro,
+## 🌎 Software Engineer 🌏
 
-Electronics engineer, working in telecommunications.  I am dedicated to learn about web development. I have knowledge of React, CSS, JS, Express and NodeJS.
+Electronics engineer, working in telecommunications.
 
-- 💬 Ask me about data networks (Cisco, Huawei), BGP, SD-WAN and Voip. Programming on JavaScript. 
+- 💬 Ask me about data networks (Cisco, Huawei), BGP, SD-WAN and Voip.
+- 💻 Programming on JavaScript and Python.
+- 🔥 Frameworks like FastAPI and Express.
+- 💖 Library like ReactJS.
 - 🎨 Drawing and playing piano are my hobbies. 
 - 📚 Books: Harry Potter⚡️ - John Green ✨
 
 | Technologies & knowledge |
 | ------ |
-| CSS |
+| Tailwind |
 | Sass |
 | ReactJS |
 | NodeJS |
